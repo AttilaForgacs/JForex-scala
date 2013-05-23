@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/fx/JForex-API-2.7.8.jar"/>
+	<classpathentry kind="lib" path="/fx/slf4j-api-1.6.4.jar" sourcepath="/home/attila/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
